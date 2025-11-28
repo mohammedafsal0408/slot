@@ -50,7 +50,7 @@ Execute the program using runserver command.
 </tr>
 <tr align="center">
 <th bgcolor="coral">8-10</th>
-<td bgcolor="coral">C Programming</td>
+<td bgcolor="coral">Data Science</td>
 <td bgcolor="coral">C Programming</td>
 <td bgcolor="coral">none</td>
 <td bgcolor="coral">none</td>
@@ -131,7 +131,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![alt text](<Screenshot (28).png>)
+![alt text](<Screenshot (29).png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
